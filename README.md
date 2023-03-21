@@ -5,12 +5,12 @@ This website is created at aim of learning **Typescript**,**Tailwind** and **Rea
 ## Website name:
 NFT
 
-## Acknowledgements
+## Used tools
 
-- [Tailwind CSS](https://tailwindcss.com/)
-- [React JS](https://reactjs.org)
-- [React Query](https://react-query-v3.tanstack.com/)
-- [Typescript](https://www.typescriptlang.org/)
+- Tailwind CSS
+- React JS
+- React Query
+- Typescript
 
 ## Feedback
 
