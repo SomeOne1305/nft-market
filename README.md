@@ -15,3 +15,6 @@ NFT
 ## Feedback
 
 If you have any feedback, please reach out to us at axmadxolmuminov2007@gmail.com
+
+## Template
+[NFT](https://www.figma.com/file/HqjPs8W8zwlcRsApQqA1s8/NFTWebsitelandingpage?node-id=1-24&t=7E95VmwDogBoN2o1-0)
